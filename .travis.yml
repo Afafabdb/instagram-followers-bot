@@ -6,4 +6,4 @@ python:
 install: 
   - pip install -r requirements.txt
 script:
-  - python main.py
+  - python main.py -u ___gaming.hub -p Adarsh98 -o follow-tag -t pubg
